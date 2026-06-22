@@ -1,13 +1,19 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Nisha Singh</h1>
-<h3 align="center">AI & Machine Learning Enthusiast 🚀</h3><br><br>## About Me :
+<h1 align="center">✨ Hey there! I'm Nisha Singh 👋</h1>
+
+<h3 align="center">
+AI & Machine Learning Enthusiast 🚀
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=👩‍💻+3rd+Year+B.Tech+CSE+Student;🚀+Building+AI-Powered+Applications;🤖+Machine+Learning+Enthusiast;🌱+Exploring+Deep+Learning+%26+GenAI;✨+Turning+Ideas+Into+Intelligent+Solutions" />
+</p> <br><br>## About Me :
 
 ✨ Turning ideas into intelligent solutions.
 🎓 3rd Year B.Tech CSE Student.
 🔭 Working on
 AI-powered Healthcare and Movie Recommendation Systems.
 🌱 Currently learning
-Machine Learning, Deep Learning, Generative AI, and UI/UX Design.
+Machine Learning, Deep Learn⁶ing, Generative AI, and UI/UX Design.
 🤝 Open to collaboration on
 Python, AI, ML, and Data Science Projects.
 💬 Ask me about
