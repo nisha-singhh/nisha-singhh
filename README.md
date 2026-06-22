@@ -1,5 +1,25 @@
 # 💫 About Me:
-<h2 align="center">Hi 👋, I'm Nisha Singh</h2><br><h3 align="center">A Passionate AI & Machine Learning Enthusiast from India 🇮🇳</h3><br><br>✨ Turning ideas into intelligent solutions.<br><br>🎓 3rd Year B.Tech CSE Student<br><br>🚀 Currently building AI-powered applications and real-world projects<br><br>🌱 Learning Machine Learning, Deep Learning, Generative AI, and UI/UX Design<br><br>🤝 Open to collaborating on AI, ML, Data Science, and Python projects<br><br>💬 Ask me about Python, Streamlit, Machine Learning, and Data Analytics<br><br>⚡ Fun fact: I believe consistency and curiosity can turn beginners into experts.<br>### 🛠 Languages and Tools<br><br>💻 Python | C | SQL<br><br>📊 Pandas | NumPy | Matplotlib | Plotly<br><br>🤖 Scikit-Learn | Machine Learning<br><br>🌐 HTML | CSS | Streamlit<br><br>🗄 MySQL | Git | GitHub<br><br>🎨 Figma | UI/UX Design<br>### 🚀 Currently Exploring<br><br>🔹 Machine Learning<br><br>🔹 Deep Learning<br><br>🔹 Generative AI<br><br>🔹 Data Analytics<br><br>🔹 Full Stack Development<br><br>🔹 Open Source Contribution<br>### ✨ Quote<br><br>"Code. Learn. Build. Repeat. 🚀"
+<h1 align="center">Hi 👋, I'm Nisha Singh</h1>
+<h3 align="center">AI & Machine Learning Enthusiast 🚀</h3><br><br>## About Me :
+
+✨ Turning ideas into intelligent solutions.
+
+🎓 3rd Year B.Tech CSE Student.
+
+🔭 Working on
+AI-powered Healthcare and Movie Recommendation Systems.
+
+🌱 Currently learning
+Machine Learning, Deep Learning, Generative AI, and UI/UX Design.
+
+🤝 Open to collaboration on
+Python, AI, ML, and Data Science Projects.
+
+💬 Ask me about
+Python, Streamlit, Machine Learning, and Data Analytics.
+
+⚡ Fun fact
+Code, Coffee, and Curiosity keep me going! ☕🚀
 
 
 ## 🌐 Socials:
