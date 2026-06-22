@@ -1,7 +1,4 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=✨+Welcome+to+My+Coding+Universe;👩‍💻+I'm+Nisha+Singh;🚀+Let's+Build+Something+Amazing!" />
-</h1>
+<h1 align="center"><span style="color:#FF69B4;">💜 Hey there! I'm Nisha Singh's ✨</span></h1>
 <h3 align="center">
 AI & Machine Learning Enthusiast 🚀
 </h3>
