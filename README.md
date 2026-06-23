@@ -41,6 +41,7 @@ Code, Coffee, and Curiosity keep me going! ☕🚀
   <img src="https://streak-stats.demolab.com?user=nisha-singhh&theme=tokyonight"/>
 </p>
 
+[![Nisha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisha-singhh&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/nisha-singhh)
 ---
 [![](https://komarev.com/ghpvc/?username=nisha-singhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
